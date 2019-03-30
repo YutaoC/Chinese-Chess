@@ -1,5 +1,5 @@
 # Chinese-Chess
-By YutaoChen  |  More Details on my website 
+By YutaoChen  |  More Details on my website: https://yutaoc.github.io/YutaoChen/projects/2019/03/29/Chinese-Chess.html 
 
 # Have
 - welcome page
