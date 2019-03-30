@@ -1,0 +1,8 @@
+Game Started at 2019-03-29 20:14:49.439238
+Red Cannon: from (2,8) to (5,8)
+Black Cannon: from (2,3) to (5,3)
+Red Cannon: from (5,8) to (5,4). Killed Enemy's Soldier
+Black Chariot: from (1,1) to (1,3)
+Player1 Killed Player2's General
+Result: Player2 lost!
+Game ended at 2019-03-29 20:14:58.816308
